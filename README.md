@@ -1,5 +1,5 @@
-📊 Global Layoffs Analysis Dashboard (Excel & Power BI)
-📌 Project Overview
+# Global Layoffs Analysis Dashboard (Excel & Power BI)
+## Project Overview
 
 This project analyzes global company layoffs data to identify trends across industries, countries, funding stages, and time periods.
 The raw dataset was cleaned and prepared using Microsoft Excel, and an interactive dashboard was developed in Power BI to present insights in a clear and business-friendly manner.
