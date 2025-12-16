@@ -4,11 +4,11 @@
 This project analyzes global company layoffs data to identify trends across industries, countries, funding stages, and time periods.
 The raw dataset was cleaned and prepared using Microsoft Excel, and an interactive dashboard was developed in Power BI to present insights in a clear and business-friendly manner.
 
-🗂 Dataset Description
+# Dataset Description
 
 The dataset contains layoff-related information across multiple companies worldwide, including:
 
-Key Columns:
+### Key Columns:
 
 Company Name
 
@@ -30,7 +30,7 @@ Country
 
 Funds Raised (in USD millions)
 
-🧹 Data Cleaning & Preparation (Excel)
+##  Data Cleaning & Preparation (Excel)
 
 Data preprocessing was performed in Microsoft Excel, including:
 
@@ -48,7 +48,7 @@ Creation of clean, analysis-ready data
 
 Excel ensured the dataset was structured and optimized before visualization.
 
-📊 Power BI Dashboard
+## Power BI Dashboard
 
 The cleaned dataset was imported into Power BI to build an interactive dashboard featuring:
 
@@ -66,7 +66,7 @@ Slicers and filters for dynamic data exploration
 
 The dashboard allows users to quickly understand patterns and drill down into specific insights.
 
-📈 Key Insights
+## Key Insights
 
 Layoffs vary significantly across industries and funding stages
 
@@ -76,7 +76,7 @@ Post-IPO and late-stage companies show high layoff volumes
 
 Year-wise trends highlight periods of increased layoffs
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Microsoft Excel – Data cleaning & preparation
 
